@@ -1,0 +1,7 @@
+[2]
+{https://github.com/artic999/QIGENXR/blob/main/QI2.bin}
++1. Test to see if this path works=
+(c) Artic Consultants Limited 2022
+
+
+
